@@ -1,0 +1,231 @@
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "image1":
+            case "D":return img`
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1fffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff.ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff11fffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff...fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1..1ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff...ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff....11fffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffff...ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff....f1fffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffff....fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff.....ff1.fffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffff.....ffffffffffffffffffffffffffffffffffff..1ffffffffffffffffffffffffffffffffff.....fff.fffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff........fffffffffffffffffffffffffffffffffff...fffffffffffffffffffffffffffffffff......fff.1ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff........ffffffffffffffffff.fffffffffffffff..f.ffffffffffffffffffffffffffffffff.......ff..1ffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffff..........ffffffffffffffff..f11fffffffffff......fffffffffffffffffffffffffffffff.......ff..f1fffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffff............ffffffffffff.....ff1fffffffff......f.ffffffffffffffffffffffffffffff........f.f.ff1ffffffffffffffffffffffffff
+fffffffffffffffffffffffffffff..........f...fffffffffff.....fff1fffffff......ff.1fffffffffffffffffffffffffffff..........f.fff1fffffffffffffffffffffffff
+ffffffffffffffffffffffffffff...........f....fffffffff..f...ffff11fffff......f.f1ffffffffffffffffffffffffffff1..........f.fff11ffffffffffffffffffffffff
+fffffffffffffffffffffffffff.....ff.....f.f....fffffff..f...fffff1fffff.....ff.f1fffffffffffffffffffffffffff1...........f.ffff11fffffffffffffffffffffff
+ffffffffffffffffffffffffff......f......ffff....fffff.....f.ffffff1ffff.....f.ff1ffffffffffffffffffffffffff1............f.ffffff1ffffffffffffffffffffff
+fffffffffffffffffffffffff.......f......ffff......f.......f.fffffff1fff......ffff1ffffffffffffffffffffffff1.f...........f.fffffff1fffffffffffffffffffff
+fffffffffffffffffffffffff...............fff.......f......f.ffffffff1f.....f.ffff1ffffffffffffffffffffffff..............f.ffffffff11fffffffffffffffffff
+fffffffffffffffffffffffff...........f...ffff.............f.ffffffff......ff.fffff1ffffffffffffffffffffff.1.............f.fffffffff11ffffffffffffffffff
+fffffffffffffffffffffff.................ffff......f....f..ffffffff.......ff.fffff1fffffffffffffffffffff.........ff.....f.ffffffffff1ffffffffffffffffff
+ffffffffffffffffffffff.f........f.......fff.......f.......fffffff........f.ffffff1fffffffffffffffffffff.........f...f..fffffffffffff1fffffffffffffffff
+fffffffffffffffffffff.f..f........f.....fff..........f....f.ffffff.......f.fffffff1fffffffffffffffffff...f..........ff..ffffffffffff11ffffffffffffffff
+ffffffffffffffffffff..f...........f.....ff...........f....f.fffff.........fffffffff1ffffffffffffffff....ff.........f.ff.ffffffffffff1111ffffffffffffff
+fffffffffffffffffff..f............f.....ff.f....f......f..f.ffff...f.....ffffffffff1fffffffffffffff..................fffffffffffffffff1fffffffffffffff
+ffffffffffffffffff..f..........f.f.........f...........f....fff...f......ffffffffff1fffffffffffffff..........f.......ffffffffffffffffff1ffffffffffffff
+ffffffffffffffff...fff....f................f.............f..fff...f.......fffffffff1ffffffffffffff...........f......f.ffffffffffffffffff11ffffffffffff
+ffffffffffffff...fffff.ff..........f.......................ff...ff........ffffffffff1fffffffffffff.ff......ff.......f.fffffffffffffffffff11fffffffffff
+fffffffffffff...fffff..fffff......f........................ff..............ffffffffff1fffffffffff.f........f........f.fffffffffffffffffffff11fffffffff
+ffffffffffff...fffffffffffff....f.f.f..f.........ff........f...............ffffffffff1ffffffffff..f......ff.........f.fffffffffffffffffffffff1ffffffff
+fffffffffff...fffffffffffffff.f.fff.f..f.......f.ff........f..............ffffffffffff1ffffffff...ff.....f..........f.fffffffffffffffffffffff11fffffff
+ffffffffff..fffffffffffffffff.fffff.ff........ff.ff...............f.......ffffffffffff1fffffff.............ff.......f.ffffffffffffffffffffffff11ffffff
+fffffffff..ffffffffffffffffff.ffffff.f.ff.....ff.f..f................f...fffffffffffff1ffffff..............f........f.fffffffffffffffffffffffff11fffff
+fffffff...fffffffffffffffffff.fffffff..fff....fff................f...f...ffffffffffffff1ffff...............f.......f..ffffffffffffffffffffffffff11ffff
+fffff....ffffffffffffffffffffffffffffffffff...fff..ff............f.......fffffffffffffff1f.................f.......f..fffffffffffffffffffffffffff1ffff
+ffff...ffffffffffffffffffffffffffffffffffffffffffffff..........f.f..f...fffffffffffffffff1f................f.......f.fffffffffffffffffffffffffffff1fff
+fff....ffffffffffffffffffffffffffffffffffffffffffffff..f.......f..f.f.fffffffffffffffffff1...f.....................fffffffffffffffffffffffffffffff11ff
+f..1..ffffffffffffffffffffffffffffffffffffffffffffffffff......f.f..ffffffffffffffffffffff11..f....f...............fffffffffffffffffffffffffffffffff1ff
+.....fffffffffffffffffffffffffffffffffffffffffffffffff........f.f.fffffffffffffffffffffff11.......................fffffffffffffffffffffffffffffffff11f
+ff..ffffffffffffffffffffffffffffffffffffffffffffffffff.........ffffffffffffffffffffffffff1ffff....................ffffffffffffffffffffffffffffffffff1f
+f..fffffffffffffffffffffffffffffffffffffffffffffffffff......f.ffffffffffffffffffffffffffffffff.................f..ffffffffffffffffffffffffffffffffff1f
+..fffffffffffffffffffffffffffffffffffffffffffffffffffff.....ffffffffffffffffffffffffffffffffff....ff.............fffffffffffffffffffffffffffffffffff11
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff.....ffffffffffffffffffffffffffffffffff.fffffff.f.......f..ffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff..f..fffffffffffffffffffffffffffffffffffffffffff.f....f...f.ffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff....fffffffffffffffffffffffffffffffffffffffffff.f....f....fffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff.f...ffffffffffffffffffffffffffffffffffffffffffff.......f..fffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff.f..fffffffffffffffffffffffffffffffffffffffffffffff..f..f..fffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff.f..fffffffffffffffffffffffffffffffffffffffffffffff.ffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff.fffffffffffffffffffffffffffffffffffffffffffffffff.ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffddddddddffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffddddffffffffdddfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fddddffffffffffffffffffffdddddfffffffffffffffdddffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ddfffdddddddfffddddddddddfffffffffffffffffffffffddddfffffffffffffffffffffffffffdddddddddddddddddddddddddddddddddddddfffffffffddddddddddfffffffffffffff
+ffffffffffffdddfffffffffffffffffffffffffffffffffffffdddddddddddddddddddddddddddfffffffffffffffffffffffffffffffffffffdddddddddffffffffffdffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffdfffffffdddfff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffddddddddffddf
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+777fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fff77fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+f777ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffff7777ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffff7777ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff77777777777777777777777777777777777f
+ffffffffffff7777ffffffffffffffffffffffffffffff77777777777777777777777777777777777777777777777777777777777777777777ffffffffffffffffffffffffffffffffffff
+fffffffffff77777777777777777777777777777777777ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+`;
+            case "eA/!!l1aaqZi$2r,uYFx":
+            case "D0":return img`
+99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999.999999999999999999999999999999999
+999999999999999999999999999999999999.999999999999999999999999999999999999999999999999999999999999999999999999999999..999999999999999999999999999999999
+999999999999999999999999999999999999...999999999999999999999999999999999999999999999999999999999999999999999999999....99999999999999999999999999999999
+999999999999999999999999999999999999...99999999999999999999999999999999999999999999999999999999999999999999999999.....19999999999999999999999999999999
+999999999999999999999999999999999999...99999999999999999999999999999999999999999999999999999999999999999999999999....f..999999999999999999999999999999
+99999999999999999999999999999999999....9999999999999999999999999999999999999999999999999999999999999999999999999.....ff..99999999999999999999999999999
+9999999999999999999999999999999999.....999999999999999999999999999999999999..19999999999999999999999999999999999.....fff.99999999999999999999999999999
+99999999999999999999999999999999........99999999999999999999999999999999999...999999999999999999999999999999999......fff.19999999999999999999999999999
+99999999999999999999999999999999........999999999999999999.199999999999999..f.99999999999999999999999999999999.......ff..19999999999999999999999999999
+9999999999999999999999999999999..........9999999999999999..f1199999999999......9999999999999999999999999999999.......ff..f1999999999999999999999999999
+999999999999999999999999999999............999999999999.....ff19999999999.....f.999999999999999999999999999999........f.f.ff199999999999999999999999999
+99999999999999999999999999999..........f...99999999999......ff1999999999....ff.199999999999999999999999999999..........f.fff19999999999999999999999999
+9999999999999999999999999999...........f....999999999..f.....ff11999999.....f.f19999999999999999999999999999...........f.fff11999999999999999999999999
+999999999999999999999999999.....ff.....f.f....9999999..f....ffff1999999....ff.f1999999999999999999999999999............f.ffff1199999999999999999999999
+99999999999999999999999999......f......ffff....99999.....f.ffffff19999.....f.ff199999999999999999999999999.............f.ffffff19999999999999999999999
+9999999999999999999999999.......f......ffff......9.......f..ffffff1999......ffff1999999999999999999999999..f...........f.fffffff1999999999999999999999
+9999999999999999999999999...............fff.......ff.....f.ffffffff19.....f.ffff199999999999999999999999...............f.ffffffff119999999999999999999
+9999999999999999999999999...........f...ffff.............f.ffffffff......ff.fffff19999999999999999999999...............f.fffffffff11999999999999999999
+99999999999999999999999.................ffff......f....f..ffffffff.......ff.fffff1999999999999999999999.........ff.....f.ffffffffff1999999999999999999
+9999999999999999999999.f........f.......fff.........f.....fffffff........f.ffffff199999999999999999999..........f...f..fffffffffffff199999999999999999
+999999999999999999999.f..f........f.....fff...........ff..f.ffffff.......f.fffffff19999999999999999999...f..........ff..ffffffffffff119999999999999999
+99999999999999999999..f...........f.....ff.............f..f.fffff.........fffffffff19999999999999999....ff.........f.ff.ffffffffffff111199999999999999
+9999999999999999999..f............f.....ff.f....f.........f.ffff...f.....ffffffffff1999999999999999..................fffffffffffffffff1999999999999999
+999999999999999999..f..........f.f.........f............f...fff...f......ffffffffff1999999999999999..........f.......ffffffffffffffffff199999999999999
+9999999999999999...fff....f................f............f...fff...f.......fffffffff199999999999999...........f......f.ffffffffffffffffff11999999999999
+99999999999999...fffff.ff..........f......................fff...ff........ffffffffff19999999999999.ff......ff.......f.fffffffffffffffffff1199999999999
+9999999999999...fffff..fffff......f........................ff..............ffffffffff199999999999.f........f........f.fffffffffffffffffffff11999999999
+999999999999...fffffffffffff....f.f.f..f.........ff........f...............ffffffffff19999999999..f......ff.........f.fffffffffffffffffffffff199999999
+99999999999...fffffffffffffff.f.fff.f..f.......f.ff........f..............ffffffffffff199999999...ff.....f..........f.fffffffffffffffffffffff119999999
+9999999999..fffffffffffffffff.fffff.ff........ff.ff...............f.......ffffffffffff19999999.............ff.......f.ffffffffffffffffffffffff11999999
+999999999..ffffffffffffffffff.ffffff.f.ff.....ff.f..f................f...fffffffffffff1999999..............f........f.fffffffffffffffffffffffff1199999
+9999999...fffffffffffffffffff.fffffff..fff....fff................f...f...ffffffffffffff19999...............f.......f..ffffffffffffffffffffffffff119999
+99999....ffffffffffffffffffffffffffffffffff...fff..ff............f.......fffffffffffffff19.................f.......f..fffffffffffffffffffffffffff19999
+9999...ffffffffffffffffffffffffffffffffffffffffffffff..........f.f..f...fffffffffffffffff1f................f.......f.fffffffffffffffffffffffffffff1999
+999....ffffffffffffffffffffffffffffffffffffffffffffff..f.......f..f.f.fffffffffffffffffff1...f.....................fffffffffffffffffffffffffffffff1199
+9..1..ffffffffffffffffffffffffffffffffffffffffffffffffff......f.f..ffffffffffffffffffffff11..f....f...............fffffffffffffffffffffffffffffffff199
+.....fffffffffffffffffffffffffffffffffffffffffffffffff........f.f.fffffffffffffffffffffff11.......................fffffffffffffffffffffffffffffffff119
+ff..ffffffffffffffffffffffffffffffffffffffffffffffffff.........ffffffffffffffffffffffffff1ffff....................ffffffffffffffffffffffffffffffffff19
+f..fffffffffffffffffffffffffffffffffffffffffffffffffff......f.ffffffffffffffffffffffffffffffff.................f..ffffffffffffffffffffffffffffffffff19
+..fffffffffffffffffffffffffffffffffffffffffffffffffffff.....ffffffffffffffffffffffffffffffffff....ff.............fffffffffffffffffffffffffffffffffff11
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff.....ffffffffffffffffffffffffffffffffff.fffffff.f.......f..ffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff..f..fffffffffffffffffffffffffffffffffffffffffff.f....f...f.ffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff....fffffffffffffffffffffffffffffffffffffffffff.f....f....fffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff.f...ffffffffffffffffffffffffffffffffffffffffffff.......f..fffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff.f..fffffffffffffffffffffffffffffffffffffffffffffff..f..f..fffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffff.f..fffffffffffffffffffffffffffffffffffffffffffffff.ffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffff.fffffffffffffffffffffffffffffffffffffffffffffffff.ffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffddddddddffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffdddd77777777dddfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fddddffffffffffffffffffffddddd777777777777777dddffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+dd777dddddddfffdddddddddd77777777777777777777777ddddfffffffffffffffffffffffffffdddddddddddddddddddddddddddddddddddddfffffffffddddddddddfffffffffffffff
+777777777777ddd7777777777777777777777777777777777777ddddddddddddddddddddddddddd7777777777777777777777777777777777777ddddddddd7777777777dffffffffffffff
+7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777dfffffffdddfff
+77777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777dddddddd77dd7
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+`;
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.
